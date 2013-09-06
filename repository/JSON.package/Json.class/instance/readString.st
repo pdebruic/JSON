@@ -1,7 +1,7 @@
 private
 readString
 	| s c |
-	s := WriteStream on: ''.
+	s := WriteStream on: String new.
 	[
 		c := stream next.
 		c == $\

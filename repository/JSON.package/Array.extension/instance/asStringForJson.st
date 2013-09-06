@@ -1,0 +1,3 @@
+*json
+asStringForJson
+	^self squeakPrintString

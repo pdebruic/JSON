@@ -1,7 +1,7 @@
 private
 readNumber
 	| acc c |
-	acc := WriteStream on: ''.
+	acc := WriteStream on: String new.
 	[
 		c := stream peek.
 		(c isNil not and: [Json numbersMayContain: c]) ifFalse: [

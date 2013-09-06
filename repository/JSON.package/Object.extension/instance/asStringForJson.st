@@ -1,0 +1,3 @@
+*JSON
+asStringForJson
+	^self asString
