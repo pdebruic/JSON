@@ -1,3 +1,0 @@
-*JSON
-asStringForJson
-	^self asString

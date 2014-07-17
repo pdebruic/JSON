@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'JSON'!
+SystemOrganization addCategory: #JSON!

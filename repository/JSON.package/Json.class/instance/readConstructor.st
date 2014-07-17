@@ -1,7 +1,7 @@
 private
 readConstructor
 	| s c v ctor |
-	s := WriteStream on: String new.
+	s := WriteStream on: ''.
 	[
 		c := stream peek.
 		c ifNil: [JsonSyntaxError signal: 'Premature EOF reading constructor name'].
