@@ -3,9 +3,9 @@ baseline: spec
 	<baseline>
 
 	spec for: #'common' do: [
-		spec repository: 'http://smalltalkhub.com/mc/PharoExtras/JSON/main'.
+		spec repository: 'gitfiletree:///opt/git/t1/common'.
 		spec package: 'JSON'.
 		spec group: 'default' with: #('JSON' ). ].
 
 	spec for: #'gemstone' do: [
-		spec repository: 'http://www.smalltalkhub.com/mc/pdebruic/JSONg/main'. ].
+		spec repository: 'gitfiletree:///opt/git/t1/gemstone'. ].
