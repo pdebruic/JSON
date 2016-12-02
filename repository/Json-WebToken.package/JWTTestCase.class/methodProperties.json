@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"testDefaultEncodeDecode" : "JohanBrichau 7/25/2013 15:31",
+		"testBase64UrlEncodeDecode" : "KrisGybels 12/2/2016 17:32",
+		"testEncodingDecodingNonASCII" : "KrisGybels 2/5/2014 14:18"
+	},
+	"class" : { }
+}

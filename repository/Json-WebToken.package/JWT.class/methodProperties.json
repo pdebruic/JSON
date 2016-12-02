@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"base64UrlEncoded:" : "KrisGybels 12/2/2016 16:53",
+		"fromEncodedString:" : "KrisGybels 2/5/2014 13:17",
+		"verifySignature:forMessage:" : "JohanBrichau 7/25/2013 21:25",
+		"key:" : "JohanBrichau 7/24/2013 21:09",
+		"payload" : "JohanBrichau 7/25/2013 15:30",
+		"initialize" : "JohanBrichau 7/25/2013 21:30",
+		"base64UrlDecoded:" : "JohanBrichau 7/25/2013 21:25",
+		"headerfields" : "JohanBrichau 7/25/2013 15:29",
+		"signatureOf:" : "JohanBrichau 7/25/2013 21:25",
+		"payload:" : "JohanBrichau 7/24/2013 21:09",
+		"encodedString" : "KrisGybels 2/5/2014 13:15"
+	},
+	"class" : { }
+}

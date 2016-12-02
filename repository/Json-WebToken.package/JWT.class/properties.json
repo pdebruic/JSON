@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Json-WebToken",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"payload",
+		"key",
+		"headerfields"
+	],
+	"name" : "JWT",
+	"type" : "normal"
+}
