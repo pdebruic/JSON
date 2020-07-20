@@ -1,0 +1,3 @@
+accessing
+issuedAt
+	^ self iat

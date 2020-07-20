@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 8/13/2018 13:53",
+	"super" : "Object",
+	"category" : "JSONWebToken-Core-Headers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"properties"
+	],
+	"name" : "JOSEHeader",
+	"type" : "normal"
+}

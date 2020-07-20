@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"protectedHeader" : " 7/18/2020 17:36:22",
+		"header" : " 7/18/2020 17:36:22",
+		"compactSerialized" : " 7/18/2020 17:36:22",
+		"base64Decoded:" : " 7/18/2020 17:36:22",
+		"hasSameHeader:" : " 7/18/2020 17:36:22",
+		"algorithmName:" : " 7/18/2020 17:36:22",
+		"checkSignature:" : " 7/18/2020 17:36:22",
+		"hasSameProtectedHeader:" : " 7/18/2020 17:36:22",
+		"setProtectedHeader:" : " 7/18/2020 17:36:22",
+		"payload" : " 7/18/2020 17:36:22",
+		"key:" : " 7/18/2020 17:36:22",
+		"algorithm:" : " 7/18/2020 17:36:22",
+		"hash" : " 7/18/2020 17:36:22",
+		"algorithm" : " 7/18/2020 17:36:22",
+		"payload:" : " 7/18/2020 17:36:22",
+		"writePayloadOn:" : " 7/18/2020 17:36:22",
+		"=" : " 7/18/2020 17:36:22",
+		"writeProtectedHeaderOn:" : " 7/18/2020 17:36:22",
+		"hasSamePayload:" : " 7/18/2020 17:36:22",
+		"signatureFor:" : " 7/18/2020 17:36:22",
+		"headerClass" : " 7/18/2020 17:36:22"
+	},
+	"class" : {
+		"materializeCompact:key:checkSignature:" : " 7/18/2020 17:36:22",
+		"materializeCompact:key:" : " 7/18/2020 17:36:22"
+	}
+}

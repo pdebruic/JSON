@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 8/13/2018 13:49",
+	"super" : "JWCryptoHeader",
+	"category" : "JSONWebToken-Core-Headers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JWEHeader",
+	"type" : "normal"
+}
