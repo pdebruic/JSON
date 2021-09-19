@@ -6,5 +6,4 @@ baseline: spec
 		spec package: 'JSON'.
 		spec group: 'default' with: #('JSON' ). ].
 
-	spec for: #'gemstone' do: [
- ].
+
