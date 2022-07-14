@@ -7,3 +7,8 @@ baseline: spec
 		spec group: 'default' with: #('JSON' ). ].
 
 
+spec
+    for: #'gemstone'
+    do: [ 
+      spec package: 'JSON' with: [ spec requires: #('JSONGemStone') ].
+      spec group: 'default' with: #('JSON') ]
