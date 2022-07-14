@@ -9,6 +9,6 @@ baseline: spec
 
 spec
     for: #'gemstone'
-    do: [ 
-      spec package: 'JSON' with: [ spec requires: #('JSONGemStone') ].
+    do: [ spec package: 'JSONGemStone';
+       package: 'JSON' with: [ spec requires: #('JSONGemStone') ].
       spec group: 'default' with: #('JSON') ]
